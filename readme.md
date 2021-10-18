@@ -2,7 +2,7 @@
 
 # Sugestão de carteira de ações com base na análise fundamentalista
 
-#### Aluno: [Márcio Alexandre de Oliveira Pinto] (https://github.com/marcioalexandrepinto).
+#### Aluno: [Márcio Alexandre de Oliveira Pinto](https://github.com/marcioalexandrepinto).
 #### Orientador: [Leonardo Forero Mendonza](https://github.com/leofome8).
 
 ---

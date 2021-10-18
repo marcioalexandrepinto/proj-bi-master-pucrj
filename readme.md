@@ -1,6 +1,6 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
-# Sugestão de carteira de ações com base na análise fundamentalista
+# Machine Learning de carteira de ações com análise fundamentalista
 
 #### Aluno: [Márcio Alexandre de Oliveira Pinto](https://github.com/marcioalexandrepinto).
 #### Orientador: [Leonardo Forero Mendonza](https://github.com/leofome8).

@@ -11,10 +11,6 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - [Link para o código](https://github.com/marcioalexandrepinto/proj-bi-master-pucrj/blob/main/TCC%20BI%20Master%20-%20Carteira%20de%20A%C3%A7%C3%B5es.ipynb).
 
-- Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
-    - [Nome do Trabalho 1](https://link_do_trabalho.com).
-    - [Nome do Trabalho 2](https://link_do_trabalho.com).
-
 ---
 
 ### Resumo
